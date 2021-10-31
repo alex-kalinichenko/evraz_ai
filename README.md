@@ -1,7 +1,9 @@
 # EVRAZ AI metallurgy hackathon
 Продуйте металл через Data Science
 ---
-29-31 October 2021                                                          https://hackathon.evraz.com
+29-31 October 2021                                                                 https://hackathon.evraz.com
+
+![logo](C:\Users\Alex\YandexDisk\it\evraz_ai\img\logo.png)
 
 ### Задача - разработать алгоритм предсказания содержание углерода и температуру чугуна.
 
