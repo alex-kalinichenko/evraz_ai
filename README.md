@@ -3,7 +3,7 @@
 ---
 29-31 October 2021                                                                 https://hackathon.evraz.com
 
-![logo](C:\Users\Alex\YandexDisk\it\evraz_ai\img\logo.png)
+![logo](img\logo.png)
 
 ### Задача - разработать алгоритм предсказания содержание углерода и температуру чугуна.
 
