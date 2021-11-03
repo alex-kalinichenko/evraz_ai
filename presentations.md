@@ -2,66 +2,65 @@
 
 
 
-![00](C:\Users\Alex\YandexDisk\it\evraz_ai\img\00.png)
 
+![00](img/00.png)
 
+![01](img/01.png)
 
-![01](C:\Users\Alex\YandexDisk\it\evraz_ai\img\01.png)
+![02](img/02.png)
 
-![02](C:\Users\Alex\YandexDisk\it\evraz_ai\img\02.png)
+![03](img/03.png)
 
-![03](C:\Users\Alex\YandexDisk\it\evraz_ai\img\03.png)
+![04](img/04.png)
 
-![04](C:\Users\Alex\YandexDisk\it\evraz_ai\img\04.png)
+![05](img/05.png)
 
-![05](C:\Users\Alex\YandexDisk\it\evraz_ai\img\05.png)
+![06](img/06.png)
 
-![06](C:\Users\Alex\YandexDisk\it\evraz_ai\img\06.png)
+![07](img/07.png)
 
-![07](C:\Users\Alex\YandexDisk\it\evraz_ai\img\07.png)
+![08](img/08.png)
 
-![08](C:\Users\Alex\YandexDisk\it\evraz_ai\img\08.png)
+![09](img/09.png)
 
-![09](C:\Users\Alex\YandexDisk\it\evraz_ai\img\09.png)
+![10](img/10.png)
 
-![10](C:\Users\Alex\YandexDisk\it\evraz_ai\img\10.png)
+![11](img/11.png)
 
-![11](C:\Users\Alex\YandexDisk\it\evraz_ai\img\11.png)
+![12](img/12.png)
 
-![12](C:\Users\Alex\YandexDisk\it\evraz_ai\img\12.png)
+![13](img/13.png)
 
-![13](C:\Users\Alex\YandexDisk\it\evraz_ai\img\13.png)
+![14](img/14.png)
 
-![14](C:\Users\Alex\YandexDisk\it\evraz_ai\img\14.png)
+![15](img/15.png)
 
-![15](C:\Users\Alex\YandexDisk\it\evraz_ai\img\15.png)
+![16](img/16.png)
 
-![16](C:\Users\Alex\YandexDisk\it\evraz_ai\img\16.png)
+![17](img/17.png)
 
-![17](C:\Users\Alex\YandexDisk\it\evraz_ai\img\17.png)
+![18](img/18.png)
 
-![18](C:\Users\Alex\YandexDisk\it\evraz_ai\img\18.png)
+![19](img/19.png)
 
-![19](C:\Users\Alex\YandexDisk\it\evraz_ai\img\19.png)
+![20](img/20.png)
 
-![20](C:\Users\Alex\YandexDisk\it\evraz_ai\img\20.png)
+![21](img/21.png)
 
-![21](C:\Users\Alex\YandexDisk\it\evraz_ai\img\21.png)
+![22](img/22.png)
 
-![22](C:\Users\Alex\YandexDisk\it\evraz_ai\img\22.png)
+![23](img/23.png)
 
-![23](C:\Users\Alex\YandexDisk\it\evraz_ai\img\23.png)
+![24](img/24.png)
 
-![24](C:\Users\Alex\YandexDisk\it\evraz_ai\img\24.png)
+![25](img/25.png)
 
-![25](C:\Users\Alex\YandexDisk\it\evraz_ai\img\25.png)
+![26](img/26.png)
 
-![26](C:\Users\Alex\YandexDisk\it\evraz_ai\img\26.png)
+![27](img/27.png)
 
-![27](C:\Users\Alex\YandexDisk\it\evraz_ai\img\27.png)
+![28](img/28.png)
 
-![28](C:\Users\Alex\YandexDisk\it\evraz_ai\img\28.png)
+![29](img/29.png)
 
-![29](C:\Users\Alex\YandexDisk\it\evraz_ai\img\29.png)
-
-![30](C:\Users\Alex\YandexDisk\it\evraz_ai\img\30.png)
+![30](img/30.png)
