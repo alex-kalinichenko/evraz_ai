@@ -81,3 +81,12 @@
  | | | сабмиты после окончания соревнования | | 
 01.11.2021 | 20:14 | 0.5358974358974359	0.532051282051282 | лог таргета и экспонирование предсказания 6_model.ipynb | | 
 01.11.2021 | 22:52 | **0.5371794871794872	0.5391025641025641** | лучший скор, 2_lama_2.ipynb LAMA стекинг ['linear_l2', 'lgb', 'cb'], ['lgb_tuned', 'cb'] | all features | занял бы 31 место
+
+## Открытые репозитории других участников
+
+- [3-4 место по прайват ЛБ, но без хорошего навыка питчей и презентаций](https://github.com/SlayZar/evr_hack_comp21)
+- https://github.com/ifserge/evrazai
+
+### Запись питчей топ-7 победителей трека
+https://us02web.zoom.us/rec/play/QfmH73xlHoyM6szUrpeqZHfFkMJFLygha-VUJbXwB4urnscnO60cXO93iY1UlI6vVhUz-CCeH4mGEjda.FTvrmSGOto6gH8wa?autoplay=true
+
