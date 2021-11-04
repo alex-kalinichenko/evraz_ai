@@ -30,7 +30,7 @@
   - 0_data_prepare.ipynb - ноутбук где обрабатываются и объединяются данные и выгружаются в pkl
   - auto_eda.ipynb - авто EDA
   - 2_lama_2.ipynb - Light Auto ML решение
-  - 6_model_tatget_log_exp.ipynb - лучшее решение после окончания хакатона (с логарифмированием)
+  - **7_model_tatget_log_exp_metric_another_reg.ipynb** - лучшее решение после окончания хакатона (с логарифмированием и регуляризацией параметром reg_lambda (скор: 0.5423 / 0.5391)
 - **submits** - папка для хранения сабмитов (csv-файл + ноутбук в zip-архиве)
 - presentations.md - некоторые наиболее интересные скриншоты презентаций топ-7 участников.
 
@@ -56,6 +56,7 @@
 - LightAutML в режиме CatBoost+Optuna
 - Тюнинг гиперпараметров (Optuna)
 - стекинг и блендинг (можно было воспользоваться [шаблоном от Дьяконова](https://github.com/Dyakonov/ml_hacks/blob/master/dj_stacking.ipynb))
+- Регуляризацию надо было делать lambda и alpha, а не Только n_trees.
 
 # Прогресс
 
